@@ -1,0 +1,10 @@
+/Users/craigalbertson/Projects/SimpleProduct/SimpleProduct/obj/x86/Debug/SimpleProduct.csprojAssemblyReference.cache
+/Users/craigalbertson/Projects/SimpleProduct/SimpleProduct/obj/x86/Debug/SimpleProduct.csproj.CoreCompileInputs.cache
+/Users/craigalbertson/Projects/SimpleProduct/SimpleProduct/bin/Debug/SimpleProduct.exe
+/Users/craigalbertson/Projects/SimpleProduct/SimpleProduct/bin/Debug/SimpleProduct.pdb
+/Users/craigalbertson/Projects/SimpleProduct/SimpleProduct/bin/Debug/nunit.framework.dll
+/Users/craigalbertson/Projects/SimpleProduct/SimpleProduct/bin/Debug/nunit.framework.pdb
+/Users/craigalbertson/Projects/SimpleProduct/SimpleProduct/bin/Debug/nunit.framework.xml
+/Users/craigalbertson/Projects/SimpleProduct/SimpleProduct/obj/x86/Debug/SimpleProduct.csproj.CopyComplete
+/Users/craigalbertson/Projects/SimpleProduct/SimpleProduct/obj/x86/Debug/SimpleProduct.exe
+/Users/craigalbertson/Projects/SimpleProduct/SimpleProduct/obj/x86/Debug/SimpleProduct.pdb
